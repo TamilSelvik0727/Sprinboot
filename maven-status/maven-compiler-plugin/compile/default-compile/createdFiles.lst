@@ -1,0 +1,6 @@
+com\kgisl\springbootproject\repository\BookRepository.class
+com\kgisl\springbootproject\service\BookService.class
+com\kgisl\springbootproject\entity\Book.class
+com\kgisl\springbootproject\SpringbootprojectApplication.class
+com\kgisl\springbootproject\controller\BookController.class
+com\kgisl\springbootproject\service\BookServiceImp.class
